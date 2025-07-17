@@ -19,4 +19,4 @@ A simple and fun Color Changer web app built using **HTML**, **CSS**, and **Java
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Uttu2004/color-changer.git
+   git clone https://github.com/Uttu2004/change_colour.git
